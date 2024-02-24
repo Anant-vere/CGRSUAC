@@ -1,11 +1,11 @@
-Codes for a Air Canvas system 
-OCR
-Digital Ink
-White Air Canvas
-Word Document Automation
-Gesture Recoginition by mapping digits/finger tips
-Fingetip Detection
-Folder Generation
-Clear Button
-Screenshot
+Codes for an Air Canvas system: includes 
+OCR,
+Digital Ink,
+White Air Canvas,
+Word Document Automation,
+Gesture Recognition by mapping digits/fingertips,
+Fingertip Detection,
+Folder Generation,
+Clear Button,
+Screenshot, and
 Duplication
